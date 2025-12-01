@@ -1,5 +1,5 @@
 # 🚀 Swapnil-salekar  
-### *Full-Stack Java Developer | Spring Boot | Hibernate | React | SQL*
+### *Full-Stack Python Developer | Django | Flask | Javascript | SQL*
 
 > *"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."*  
 > — **Sir M. Visvesvaraya**
@@ -7,7 +7,7 @@
 ---
 
 ## 👋 Welcome
-I am a passionate **Full-Stack Java Developer** inspired by the vision and engineering brilliance of **Sir M. Visvesvaraya**.  
+I am a passionate **Full-Stack Python Developer** inspired by the vision and engineering brilliance of **Sir M. Visvesvaraya**.  
 My work focuses on **enterprise-grade backend systems**, **modern frontend UIs**, and **optimized database development**.
 
 ---
@@ -23,11 +23,12 @@ My work focuses on **enterprise-grade backend systems**, **modern frontend UIs**
 ### ⚙️ Backend  
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black
 )
-![Django](https://img.shields.io/pypi/v/django.svg)
+![Django](https://img.shields.io/badge/Django‑web‑6A1B9A.svg?style=for-the-badge&logo=django&logoColor=white
+)
 ![Flask](https://img.shields.io/badge/Flask-008080?style=for-the-badge&logo=flask&logoColor=white
 )
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-)
+
  ![MongoDB](https://img.shields.io/badge/MongoDB-Database-F47C20?style=for-the-badge&logo=mongodb&logoColor=white
 )
 
