@@ -27,7 +27,7 @@ My work focuses on **enterprise-grade backend systems**, **modern frontend UIs**
 ![Flask](https://img.shields.io/badge/Flask-008080?style=for-the-badge&logo=flask&logoColor=white
 )
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
- :contentReference[oaicite:1]{index=1})
+)
  ![MongoDB](https://img.shields.io/badge/MongoDB-Database-F47C20?style=for-the-badge&logo=mongodb&logoColor=white
 )
 
