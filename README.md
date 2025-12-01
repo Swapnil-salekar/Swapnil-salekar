@@ -27,6 +27,8 @@ My work focuses on **enterprise-grade backend systems**, **modern frontend UIs**
 ![JDBC](https://img.shields.io/badge/JDBC-003366?style=for-the-badge)
 ![Servlet](https://img.shields.io/badge/Servlet-FF7800?style=for-the-badge)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black
+)
 
 ### 🗄️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
