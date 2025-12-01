@@ -28,8 +28,7 @@ My work focuses on **enterprise-grade backend systems**, **modern frontend UIs**
 ![Flask](https://img.shields.io/badge/Flask-008080?style=for-the-badge&logo=flask&logoColor=white
 )
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-FFC107?style=for-the-badge&logo=mongodb&logoColor=white
-)
+
 
 
 
@@ -37,7 +36,7 @@ My work focuses on **enterprise-grade backend systems**, **modern frontend UIs**
 ### 🗄️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle)
-[MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-FFC107?style=for-the-badge&logo=mongodb&logoColor=white
 )
 
 ---
