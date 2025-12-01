@@ -23,7 +23,7 @@ My work focuses on **enterprise-grade backend systems**, **modern frontend UIs**
 ### ⚙️ Backend  
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black
 )
-![Django](https://img.shields.io/badge/Django‑web‑6A1B9A.svg?style=for-the-badge&logo=django&logoColor=white
+![Django](https://img.shields.io/badge/Django‑web‑007ACC.svg?style=for-the-badge&logo=django&logoColor=white
 )
 ![Flask](https://img.shields.io/badge/Flask-008080?style=for-the-badge&logo=flask&logoColor=white
 )
