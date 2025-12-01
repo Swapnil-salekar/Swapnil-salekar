@@ -44,10 +44,10 @@ My work focuses on **enterprise-grade backend systems**, **modern frontend UIs**
 ---
 
 ## 🌟 Features
-- ✅ Enterprise-Level Java Applications  
-- ✅ Secure REST API Development  
-- ✅ Efficient Hibernate ORM  
-- ✅ Dynamic React Frontend  
+- ✅ Enterprise-Grade Python Backend Development 
+- ✅ Robust RESTful API Design with Django/Flask/FastAPI  
+- ✅ Interactive Frontend Development with React.js
+- ✅ Authentication, Authorization & Security Best Practices  
 - ✅ Optimized SQL Queries & DB Structure  
 
 ---
