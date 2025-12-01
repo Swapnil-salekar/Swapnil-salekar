@@ -29,7 +29,7 @@ My work focuses on **enterprise-grade backend systems**, **modern frontend UIs**
 )
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
- ![MongoDB](https://img.shields.io/badge/MongoDB-Database-F47C20?style=for-the-badge&logo=mongodb&logoColor=white
+ ![MongoDB](https://img.shields.io/badge/MongoDB-Database-FFD700?style=for-the-badge&logo=mongodb&logoColor=white
 )
 
 
