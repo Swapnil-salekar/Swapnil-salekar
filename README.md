@@ -21,18 +21,19 @@ My work focuses on **enterprise-grade backend systems**, **modern frontend UIs**
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### ⚙️ Backend  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB43F?style=for-the-badge&logo=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![JDBC](https://img.shields.io/badge/JDBC-003366?style=for-the-badge)
-![Servlet](https://img.shields.io/badge/Servlet-FF7800?style=for-the-badge)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black
 )
+![Django](https://img.shields.io/pypi/v/django.svg)
+![Flask](https://img.shields.io/badge/Flask-008080?style=for-the-badge&logo=flask&logoColor=white
+)
+
+
 
 ### 🗄️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle)
+[MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb
+)
 
 ---
 
