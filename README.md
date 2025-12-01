@@ -8,7 +8,7 @@
 
 ## 👋 Welcome
 I am a passionate **Full-Stack Python Developer** inspired by the vision and engineering brilliance of **Sir M. Visvesvaraya**.  
-My work focuses on **enterprise-grade backend systems**, **modern frontend UIs**, and **optimized database development**.
+My work focuses on **scalable Python backend systems (Django/Flask/FastAPI)**, **dynamic React frontends**, and **efficient, optimized database solutions**.
 
 ---
 
