@@ -62,8 +62,8 @@ My work focuses on **enterprise-grade backend systems**, **modern frontend UIs**
 ---
 
 ## 🚧 Currently Working On
-- Java + Spring Boot Backend Projects  
-- React Dashboards  
+- Python Backend Development (Django / Flask / FastAPI)  
+- React.js Dynamic Dashboards & Frontend Components  
 - Database Optimization  
 - Full-Stack Web Applications  
 
