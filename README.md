@@ -19,6 +19,8 @@ My work focuses on **scalable Python backend systems (Django/Flask/FastAPI)**, *
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-48C0FF?style=for-the-badge&logo=bootstrap&logoColor=white
+)
 
 ### ⚙️ Backend  
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black
@@ -27,11 +29,13 @@ My work focuses on **scalable Python backend systems (Django/Flask/FastAPI)**, *
 )
 ![Flask](https://img.shields.io/badge/Flask-008080?style=for-the-badge&logo=flask&logoColor=white
 )
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-87CEEB?style=for-the-badge&logo=fastapi&logoColor=white)
 
-
-
+### 🧠 Data & Backend Utilities
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPY](https://img.shields.io/badge/NumPy-3f51b5?style=for-the-badge&logo=numpy&logoColor=white
+)
 
 
 ### 🗄️ Database  
@@ -41,6 +45,11 @@ My work focuses on **scalable Python backend systems (Django/Flask/FastAPI)**, *
 )
 
 
+### 🔧 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-fc634c?style=for-the-badge&logo=git&logoColor=white
+)
+![GitHub](https://img.shields.io/badge/GitHub-2ecc71?style=for-the-badge&logo=github&logoColor=white
+)
 
 ---
 
