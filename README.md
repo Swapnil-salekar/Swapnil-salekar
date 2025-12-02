@@ -28,6 +28,7 @@ My work focuses on **scalable Python backend systems (Django/Flask/FastAPI)**, *
 ![Flask](https://img.shields.io/badge/Flask-008080?style=for-the-badge&logo=flask&logoColor=white
 )
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-87CEEB?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
 
@@ -38,7 +39,7 @@ My work focuses on **scalable Python backend systems (Django/Flask/FastAPI)**, *
 ![Oracle SQL](https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-FFC107?style=for-the-badge&logo=mongodb&logoColor=white
 )
-![FastAPI](https://img.shields.io/badge/FastAPI-API-87CEEB?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 
 ---
