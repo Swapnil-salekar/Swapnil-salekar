@@ -29,7 +29,6 @@ My work focuses on **scalable Python backend systems (Django/Flask/FastAPI)**, *
 )
 ![Flask](https://img.shields.io/badge/Flask-008080?style=for-the-badge&logo=flask&logoColor=white
 )
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-87CEEB?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🧠 Data & Backend Utilities
